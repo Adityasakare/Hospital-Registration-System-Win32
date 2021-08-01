@@ -1,6 +1,6 @@
-# Patient-Registration-System-Win32
+# Hospital-Registration-System-Win32
 
-- Project Name : Patient Registration System
+- Project Name : Hospital Registration System
 - Technology Used: Win32 API ,C++ Programming 
 - User Interface Used: Graphical line Interface (GUI)
 - Platform Required : Windows NT
