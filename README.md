@@ -13,5 +13,5 @@
   - MSDN
   - Programming Windows, 5th Edition by Charles Petzold
 
-![](Screenshot/OUTPUT.png)
+![](Screenshot/Filled.png)
 
